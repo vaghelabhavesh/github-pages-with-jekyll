@@ -1,1 +1,3 @@
-This is a first post. Sample post
+This is a first post. 
+
+This is great
